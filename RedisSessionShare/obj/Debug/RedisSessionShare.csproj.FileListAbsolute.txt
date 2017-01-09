@@ -64,4 +64,3 @@ d:\Users\wanglin36\RedisSessionShare\RedisSessionShare\bin\zh-Hans\System.Web.We
 d:\Users\wanglin36\RedisSessionShare\RedisSessionShare\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 d:\Users\wanglin36\RedisSessionShare\RedisSessionShare\obj\Debug\RedisSessionShare.dll
 d:\Users\wanglin36\RedisSessionShare\RedisSessionShare\obj\Debug\RedisSessionShare.pdb
-d:\Users\wanglin36\RedisSessionShare\RedisSessionShare\obj\Debug\RedisSessionShare.csprojResolveAssemblyReference.cache
